@@ -2,8 +2,7 @@
 try:
   from sympy import *
 except ImportError:
-  pass
-from math import pi,sin,cos,tan
+  from math import pi,sin,cos,tan
 #Some py scripts I used for 9-2, area and perimeter of regular polygons
 #a - Apothem
 #p - perimeter
