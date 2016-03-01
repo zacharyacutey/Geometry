@@ -10,3 +10,5 @@ def circle_area(p1,p2):
   return r_a(distance(p1,p2))
 def circle_circumfrence(p1,p2):
   return r_c(distance(p1,p2))
+def perimeter(*points):
+  pass
